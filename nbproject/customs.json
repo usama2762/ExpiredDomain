@@ -1,0 +1,8 @@
+{
+    "attributes": {
+        "click-sort": {
+            "context": "th"
+        }
+    },
+    "elements": {}
+}

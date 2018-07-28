@@ -1,0 +1,29 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : Aug 13, 2016, 3:50:50 PM
+    Author     : Usama Jamil
+*/
+
+#div1{
+height:80px;
+width:1360px;
+font-size:50px;
+border-style: solid;
+color: blue;
+border-color: #e1dcd2;
+}
+
+
+
+#div3{
+height:60px;
+width:650px;
+border-style: solid;
+border-color: #e1dcd2;
+margin:15px;
+background-color:#e1dcd2;
+}
